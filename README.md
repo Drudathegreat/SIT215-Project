@@ -2,12 +2,12 @@
 Code used in relation to my project
 __________________________________
 You will need the following libriaries:
-gym
-IPython
-numpy
-seaborn
-math
-matplotlib
+gym,
+IPython,
+numpy,
+seaborn,
+math,
+matplotlib,
 __________________________________
 Code sources:
 Taxi Problem:
